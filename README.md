@@ -49,7 +49,6 @@ https://ethra-ai-assessment.onrender.com/
 - React.js
 - Vite
 - Tailwind CSS
-- Axios
 
 ## Backend
 - Node.js
