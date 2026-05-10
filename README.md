@@ -10,7 +10,7 @@ Frontend:
 https://ethra-ai-assessment.vercel.app/
 
 Backend:
-https://YOUR-RENDER-URL
+https://ethra-ai-assessment.onrender.com/
 
 ---
 
@@ -75,4 +75,27 @@ Database → Railway
 ## Clone Repository
 
 ```bash
-git clone YOUR_GITHUB_REPO_LINK
+https://github.com/SourabhSaharan/ethra.ai_assessment
+```
+
+## Backend Setup
+
+```bash
+cd backend
+npm install
+npm run dev
+```
+
+## Frontend Setup
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+# Author
+
+Sourabh  
+B.Tech – Electronic and Computer Engineering  
+J.C. Bose University
